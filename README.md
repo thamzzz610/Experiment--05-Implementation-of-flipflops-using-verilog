@@ -127,6 +127,7 @@ JK Flip-Flop:
 
 
 T Flip-Flop
+
 ![image](https://github.com/vksachin2018/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149366019/3b8c16ce-5308-4f03-924c-f27ee1bdd669)
 
 ## RESULTS
