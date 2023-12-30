@@ -1,4 +1,5 @@
 Developed by: GOKUL SACHIN K
+
 Refrence number:23004843
 
 ## Experiment--05-Implementation-of-flipflops-using-verilog
@@ -111,7 +112,7 @@ T Flip-Flop:
 
 
 
-##TIMING DIGRAMS FOR FLIP FLOPS
+## TIMING DIGRAMS FOR FLIP FLOPS
 SR Flip-Flop:
 
 ![image](https://github.com/vksachin2018/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149366019/1c10251f-86c8-49dc-9e05-a457017af976)
